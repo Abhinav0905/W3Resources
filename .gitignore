@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+target/
+out/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Backup files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
